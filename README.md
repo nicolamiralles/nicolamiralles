@@ -15,7 +15,7 @@
 
 En **2ᵉ année de Bachelor Informatique à Genève**, je m'intéresse à l'intelligence artificielle, en particulier aux **LLM locaux** et au **RAG**.
 
-- Actuellement à la recherche d'un **stage en informatique**
+- Actuellement à la recherche d'un **stage en informatique** pour l'été 2027
 - En **2027/28**, j'aspire à terminer mon Bachelor en **Angleterre** avec une spécialisation en **IA**
 - Français (natif) · Anglais (B2) · Espagnol (scolaire)
 
@@ -52,18 +52,36 @@ Projets réalisés en Terminale (spécialité NSI), partagés dans un but d'appr
 
 ## Compétences
 
-Ce que j'utilise le plus :
+**Langages**  
+<img src="https://img.shields.io/badge/Python-1F2937?style=for-the-badge&logo=python&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Java-1F2937?style=for-the-badge&logo=openjdk&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=mysql&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/HTML-1F2937?style=for-the-badge&logo=html5&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/CSS-1F2937?style=for-the-badge&logo=css&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Bash-1F2937?style=for-the-badge&logo=gnubash&logoColor=58A6FF" />
 
-- ![Python](https://img.shields.io/badge/Python-FastAPI%20%C2%B7%20Pydantic%20%C2%B7%20POO-30363D?style=flat-square&logo=python&logoColor=58A6FF&labelColor=0D1117)
-- ![IA](https://img.shields.io/badge/IA%20%26%20LLM-vLLM%20%C2%B7%20Ollama%20%C2%B7%20RAG%20%C2%B7%20Qwen-30363D?style=flat-square&logo=ollama&logoColor=58A6FF&labelColor=0D1117)
-- ![Web](https://img.shields.io/badge/Web-HTML%20%C2%B7%20CSS%20%C2%B7%20Tailwind%20%C2%B7%20WordPress-30363D?style=flat-square&logo=html5&logoColor=58A6FF&labelColor=0D1117)
-- ![Outils IA](https://img.shields.io/badge/Outils%20IA-Claude%20%C2%B7%20Gemini%20%C2%B7%20Perplexity-30363D?style=flat-square&logo=anthropic&logoColor=58A6FF&labelColor=0D1117)
+**IA & LLM**  
+<img src="https://img.shields.io/badge/vLLM-1F2937?style=for-the-badge&logo=nvidia&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Ollama-1F2937?style=for-the-badge&logo=ollama&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Claude-1F2937?style=for-the-badge&logo=anthropic&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Gemini-1F2937?style=for-the-badge&logo=googlegemini&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Perplexity-1F2937?style=for-the-badge&logo=perplexity&logoColor=58A6FF" />
 
-J'ai aussi de l'expérience avec :
+**Back-end & Web**  
+<img src="https://img.shields.io/badge/FastAPI-1F2937?style=for-the-badge&logo=fastapi&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/PostgreSQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Tailwind-1F2937?style=for-the-badge&logo=tailwindcss&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/WordPress-1F2937?style=for-the-badge&logo=wordpress&logoColor=58A6FF" />
 
-- ![Infra](https://img.shields.io/badge/Infra-Docker%20%C2%B7%20Nginx%20%C2%B7%20Linux%20%C2%B7%20Bash-30363D?style=flat-square&logo=docker&logoColor=58A6FF&labelColor=0D1117)
-- ![Données](https://img.shields.io/badge/Donn%C3%A9es-PostgreSQL%20%C2%B7%20SQL-30363D?style=flat-square&logo=postgresql&logoColor=58A6FF&labelColor=0D1117)
-- ![Sécurité](https://img.shields.io/badge/S%C3%A9curit%C3%A9-Keycloak%20%C2%B7%20OIDC%20%C2%B7%20HTTPS-30363D?style=flat-square&logo=keycloak&logoColor=58A6FF&labelColor=0D1117)
-- ![Java](https://img.shields.io/badge/Java-POO-30363D?style=flat-square&logo=openjdk&logoColor=58A6FF&labelColor=0D1117)
-- ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Word%20%C2%B7%20Excel%20%C2%B7%20PowerPoint-30363D?style=flat-square&labelColor=0D1117)
-- ![Git](https://img.shields.io/badge/Git-GitHub-30363D?style=flat-square&logo=git&logoColor=58A6FF&labelColor=0D1117)
+**Infrastructure & sécurité**  
+<img src="https://img.shields.io/badge/Docker-1F2937?style=for-the-badge&logo=docker&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Nginx-1F2937?style=for-the-badge&logo=nginx&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Linux-1F2937?style=for-the-badge&logo=linux&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Keycloak-1F2937?style=for-the-badge&logo=keycloak&logoColor=58A6FF" />
+
+**Outils**  
+<img src="https://img.shields.io/badge/VS%20Code-1F2937?style=for-the-badge&logo=visualstudiocode&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Eclipse%20IDE-1F2937?style=for-the-badge&logo=eclipseide&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Microsoft%20365-1F2937?style=for-the-badge&logoColor=58A6FF" />
