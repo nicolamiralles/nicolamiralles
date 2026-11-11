@@ -1,13 +1,12 @@
 <h1 align="center">Nicola Miralles</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=%C3%89tudiant+en+Bachelor+Informatique+%C3%A0+Gen%C3%A8ve;Co-fondateur+d%27AlyxIA+Solutions;LLM+locaux+%C2%B7+RAG+%C2%B7+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=%C3%89tudiant+en+Bachelor+Informatique+%C3%A0+Gen%C3%A8ve;IA+priv%C3%A9e+pour+entreprises+%C2%B7+LLM+%2B+RAG;LLM+locaux+%C2%B7+RAG+%C2%B7+Python" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="mailto:nicola.miralles@icloud.com"><img src="https://img.shields.io/badge/Email-1F2937?style=flat-square&logo=icloud&logoColor=58A6FF" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/TON-PROFIL"><img src="https://img.shields.io/badge/LinkedIn-1F2937?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
-  <a href="https://alyxia.ch"><img src="https://img.shields.io/badge/alyxia.ch-1F2937?style=flat-square&logo=googlechrome&logoColor=58A6FF" alt="AlyxIA" /></a>
 </p>
 
 <br>
@@ -22,12 +21,12 @@ En **2ᵉ année de Bachelor Informatique à Genève**, je m'intéresse à l'int
 
 <br>
 
-## AlyxIA Solutions
+## AlyxIA · IA générative privée pour entreprises (LLM + RAG)
 
-**[alyxia.ch](https://alyxia.ch)** · *Co-fondateur · Startup étudiante de 10 personnes · 2026*  
-→ Médaille de bronze au **Salon International des Inventions de Genève 2026**
+*Co-fondateur · Projet de startup étudiante · Équipe de 10 personnes*  
+🥉 **Médaille de bronze au Salon International des Inventions de Genève 2026**
 
-Une plateforme d'IA générative **100 % locale** pour les PME : le modèle tourne sur un serveur GPU dans l'entreprise, donc les données sensibles ne quittent jamais ses locaux. Le MVP comprend un chat client, un chat administrateur et un backoffice avec un monitoring de la machine en temps réel.
+J'ai co-piloté la conception d'une plateforme d'IA générative **100 % locale** pour les PME. Un LLM open-source tournait sur un serveur GPU interne à l'entreprise, et un **RAG** le connectait à sa base de données, donc aucune donnée sensible ne sortait de ses locaux. Le MVP comprenait un chat client, un chat administrateur et un backoffice avec monitoring de la machine en temps réel.
 
 | Couche | Technologies |
 |:---|:---|
