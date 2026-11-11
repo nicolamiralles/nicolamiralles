@@ -10,7 +10,7 @@
 ### Projets
 - **[AlyxIA Solutions](https://alyxia.ch)** : solution d'IA locale pour PME (vLLM, RAG). Médaille de bronze au Salon International des Inventions de Genève 2026.
 - **F1 Hub** : dashboard de données F1 (Streamlit, FastF1), modèles de ML codés from scratch, assistant RAG sur le règlement FIA. *En cours.*
-- **[Sierpinski Carpet](https://github.com/nicolamiralles/sierpinski-carpet)** : fractale récursive en Python avec Turtle.
+- **[Sierpinski Carpet](https://github.com/nicolamiralles/tapis-sierpinski-python)** : fractale récursive en Python avec Turtle.
 
 ### Stack
 Python · Java · SQL · HTML/CSS · Ollama · vLLM · RAG · Streamlit
