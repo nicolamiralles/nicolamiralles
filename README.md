@@ -15,9 +15,6 @@
 
 En **2ᵉ année de Bachelor Informatique à Genève**, je m'intéresse fortement à l'intelligence artificielle, en particulier aux **LLM**
 
-- Actuellement à la recherche d'un **stage en informatique** pour l'été 2027
-- En **2027/28**, j'aspire à terminer mon Bachelor en **Angleterre** avec une spécialisation en **IA**
-- Français (natif) · Anglais (B2) · Espagnol (scolaire)
 
 <br>
 
